@@ -130,7 +130,7 @@ Output: Rainfall mm/h × 5 horizons + Severity Class + Confidence Interval
 
 ```bash
 # Clone the repository
-git clone https://github.com/M-Srivatsav999/satcast-ai.git
+git clone https://github.com/kamalapuramVenkatesh/Rainfall-prediction-using-SATCAST.git
 cd satcast-ai
 
 # Install dependencies

@@ -1,5 +1,5 @@
 # app.py – SatCast AI Flask Server
-# Developer: Mukka Srivatsav and Team | CSE-AIML Mini Project 2025-26
+# Developer: K Venkatesh and Team | CSE-AIML Mini Project 2025-26
 
 import os, sys, json
 from flask import Flask, render_template, request, jsonify
