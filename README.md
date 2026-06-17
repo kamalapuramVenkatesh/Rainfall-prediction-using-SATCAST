@@ -10,7 +10,7 @@
 
 **CNN + Bidirectional LSTM + Multi-Head Attention · 5-Horizon Forecast · MC-Dropout Uncertainty · Zero API Cost**
 
-[🌐 Live Demo](https://satcast-ai.onrender.com) · [🚀 Quick Start](#quick-start) · [👥 Team](#team)
+[🌐 Live Demo](https://rainfall-prediction-using-satcast.onrender.com) · [🚀 Quick Start](#quick-start) · [👥 Team](#team)
 
 </div>
 
@@ -195,7 +195,7 @@ python app.py
 ```
 web: gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 120
 ```
-Live at: **https://satcast-ai.onrender.com**
+Live at: **https://rainfall-prediction-using-satcast.onrender.com**
 
 > ⚠️ Free tier spins down after 15 min of inactivity. First request takes ~30s to wake up.
 
